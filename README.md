@@ -2,7 +2,7 @@
 
 Although I have done this project using VS Code on my PC.  I did this project again to get familiar with Codeanywhere environment while using Code Institute Full template.
 
-The Purpose of the Project is to acquire following skills:
+## The Purpose of the Project is to acquire following skills:
 <ol>
 <li>GitHub</li>
 <ul>
